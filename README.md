@@ -1,4 +1,4 @@
-#Simple Height Field Water Simulation
+# Simple Height Field Water Simulation
 
 This fluid simulation is based on the work of Matthias Müller.
 
