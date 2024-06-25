@@ -6,3 +6,4 @@ This fluid simulation is based on the work of Matthias Müller.
 [Ten Minute Physics](https://www.youtube.com/watch?v=hswBi5wcqAA)
 
 ![image](https://github.com/IsaakThaddaeus/Height-Field-Water/assets/66296094/bc05a906-f322-4fb7-af86-6b901ad2c1e1)
+![image](https://github.com/IsaakThaddaeus/Height-Field-Water/assets/66296094/133b3490-d565-42cc-a26e-52421204adfd)
